@@ -1,0 +1,8 @@
+title: text.ykhs.org
+url: "http://text.ykhs.org"
+twitter_username: ykhs
+github_username:  ykhs
+markdown: redcarpet
+source: _source
+destination: _deploy
+paginate: 5
